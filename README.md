@@ -1,5 +1,5 @@
 # django_ci_cd
-
+#Hi this is what i edited
 ## Youtube video link: https://www.youtube.com/watch?v=Sl94H5e7MPw
 
 ## A CI CD Project based on Jenkins Tool for Django Project (Python)
